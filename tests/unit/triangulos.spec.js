@@ -1,4 +1,4 @@
-const tipoTriangulo = require('../../tipoTriangulo')
+const tipoTriangulo = require('../../src/tipoTriangulo')
 
 describe('Triangulo', () => {
 
